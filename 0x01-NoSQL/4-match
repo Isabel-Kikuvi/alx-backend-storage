@@ -1,0 +1,2 @@
+// script that filters out a document
+db.school.find({name : "Holberton school"})
